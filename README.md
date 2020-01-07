@@ -23,5 +23,5 @@
 	4pin IR Infrared Obstacle Avoidance Sensor Module for Arduino KY-032  : 2,29ευρώ
 	Edison: 55 ευρώ
 	Χαρτική ύλη: 5 ευρώ
-ΕΝΔΕΙΚΤΙΚΟ ΚΟΣΤΟΣ: 75,36 ευρώ
+ΕΝΔΕΙΚΤΙΚΟ ΚΟΣΤΟΣ: 75,36 ευρώ.
 
